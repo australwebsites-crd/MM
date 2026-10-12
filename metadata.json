@@ -1,0 +1,6 @@
+{
+  "name": "Inteligencia diseñada para evolucionar",
+  "description": "Construimos una mejor version para vos y tu negocio con una plataforma de IA modular de alto rendimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
